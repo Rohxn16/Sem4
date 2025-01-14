@@ -13,31 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "DAA/Design and Analysis of Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Design and Analysis of Algorithms"
             }
-          }
-        ]
-      },
-      {
-        "id": "c55d0117ae4df4c8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7c642734d45bd104",
+            "id": "f1fe1de0b508e998",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DAA/MIT OCW 6006.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MIT OCW 6006"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b3bc54738419f33",
@@ -178,8 +178,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baf03d3a650fe36d",
+  "active": "f1fe1de0b508e998",
   "lastOpenFiles": [
+    "DAA/Design and Analysis of Algorithms.md",
+    "DAA/lec1.pdf",
+    "DAA/MIT OCW 6006.md",
+    "DAA/Code",
+    "DAA/lec2.pdf",
+    "INDEX.md",
+    "DAA",
     "Welcome.md"
   ]
 }
