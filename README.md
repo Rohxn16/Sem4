@@ -6,6 +6,4 @@
 - Design and Analysis of Algorithm [text](url) 
 - Formal Language and Automata Theory [text](url) 
 - Biology [text](url) 
-- EVS [text](url) 
-
-
+- EVS [text](url)
